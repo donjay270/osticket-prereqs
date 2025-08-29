@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+-Web Server: Apache or NGINX (IIS also works on Windows)
+-Operating System:Linux (Ubuntu, CentOS, Debian) or Windows Server
+-Database: MySQL 5.5+ or MariaDB 10.0+
+-Install C++ Redistributable
+-Configure Commission and Install OS Ticketing  
 
 <h2>Installation Steps</h2>
 
